@@ -5,4 +5,8 @@ test instructions
 added few more
 >>>>>>> 8ac982e6cdd21cf47bd153a073e16a7b50560a1f
 
+<<<<<<< HEAD
 !!!!!!!!!!!!!!
+=======
+ttertert
+>>>>>>> 15e6dec9b0681a7ff562e815875a42db679c6135
